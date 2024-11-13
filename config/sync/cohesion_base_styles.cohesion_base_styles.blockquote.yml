@@ -1,0 +1,13 @@
+uuid: b0d5d415-f3e9-42d0-b064-ef1fa60d9e8e
+langcode: en
+status: false
+dependencies: {  }
+label: 'Block quote'
+id: blockquote
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: false
+selectable: false
+custom: null

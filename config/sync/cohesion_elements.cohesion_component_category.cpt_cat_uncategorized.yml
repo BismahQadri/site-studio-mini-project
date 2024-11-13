@@ -1,0 +1,14 @@
+uuid: a899d29f-5575-4275-a937-046c29489e77
+langcode: en
+status: true
+dependencies: {  }
+label: Uncategorized
+id: cpt_cat_uncategorized
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: false
+selectable: true
+class: category-1
+weight: 999
