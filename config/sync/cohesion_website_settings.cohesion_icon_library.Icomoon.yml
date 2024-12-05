@@ -1,0 +1,18 @@
+uuid: d55cbd8f-4d83-4944-acba-578b16c125b9
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:25d465b4-439d-4460-bc31-cad282ce27e1'
+    - 'file:file:7d51a6c9-4754-484c-9efd-16bd491ba793'
+    - 'file:file:8daf6678-6fdb-4c51-bacf-4afbbb6d9263'
+    - 'file:file:ad2064fc-3303-4464-95f5-1429690865ab'
+label: Fontawesome
+id: Icomoon
+json_values: '{"fontFamilyName":"Icomoon","inuse":false,"name":"Fontawesome","key":"uploadIcomoon","type":"upload","provider":"Icomoon","fontDisplay":"auto","fontFiles":{"eot":{"type":"file","uri":"public:\/\/cohesion\/icomoon.eot","uuid":"25d465b4-439d-4460-bc31-cad282ce27e1"},"ttf":{"type":"file","uri":"public:\/\/cohesion\/icomoon.ttf","uuid":"ad2064fc-3303-4464-95f5-1429690865ab"},"woff":{"type":"file","uri":"public:\/\/cohesion\/icomoon.woff","uuid":"8daf6678-6fdb-4c51-bacf-4afbbb6d9263"},"woff2":null},"iconJSON":{"json":"public:\/\/cohesion\/selection.json"}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: false
+selectable: true
+source: null
